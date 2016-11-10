@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4CB583B1DD31DFA004410E0"
+               BlueprintIdentifier = "E46DDFF51DD3FED6005C97E6"
                BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.app"
                BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;"
                ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4CB58541DD31DFB004410E0"
+               BlueprintIdentifier = "E46DE00E1DD3FED7005C97E6"
                BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;Tests.xctest"
                BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;Tests"
                ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E4CB585F1DD31DFB004410E0"
+               BlueprintIdentifier = "E46DE0191DD3FED7005C97E6"
                BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;UITests.xctest"
                BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;UITests"
                ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4CB583B1DD31DFA004410E0"
+            BlueprintIdentifier = "E46DDFF51DD3FED6005C97E6"
             BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.app"
             BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;"
             ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4CB583B1DD31DFA004410E0"
+            BlueprintIdentifier = "E46DDFF51DD3FED6005C97E6"
             BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.app"
             BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;"
             ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E4CB583B1DD31DFA004410E0"
+            BlueprintIdentifier = "E46DDFF51DD3FED6005C97E6"
             BuildableName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.app"
             BlueprintName = "&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;"
             ReferencedContainer = "container:&#x5e94;&#x7528;&#x7a0b;&#x5e8f;&#x7ba1;&#x7406;.xcodeproj">
